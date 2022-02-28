@@ -1,5 +1,5 @@
 <template>
-<div class="outer-box">
+<div >
    <router-view></router-view>
 </div>
 </template>
@@ -8,9 +8,4 @@
 </script>
 
 <style scoped lang="scss">
-.outer-box{
-   width: 100%;
-   height: 100%;
-   background-color: red;
-}
 </style>
