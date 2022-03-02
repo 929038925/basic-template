@@ -1,6 +1,6 @@
 # 项目模板功能
 
-    建议node版本16以上
+    建议node版本16 以上
 
 ## 文件目录路由
 
@@ -10,8 +10,9 @@
 
   src/views/settings.vue -> /settings
 
-  使用时需通过exclude属性配置排除组件部分路由
-    exclude: ["**/components/*.vue"]
+  使用时可以通过exclude属性配置排除不需要的部分路由
+
+    例：  exclude: ["**/components/*.vue"]
 
   详见 [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages)
 

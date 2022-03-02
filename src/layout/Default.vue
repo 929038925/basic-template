@@ -11,6 +11,6 @@
 .outer-box{
    width: 100%;
    height: 100%;
-   background-color: red;
+   background-color: rgb(223, 223, 223);
 }
 </style>
