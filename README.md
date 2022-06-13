@@ -69,6 +69,6 @@ src 下 views 之后的目录会自动转换为路由\\
 
 也可使用非默认布局\\
 
-通过代码块<route></route>可以配置响应路由的信息\\
+通过代码块<route></route>可以配置响应路由的信息及对应布局\\
 
 详见 [vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
