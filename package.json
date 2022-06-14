@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^7.6.2",
+    "element-plus": "^2.2.5",
     "sass": "^1.49.8",
     "vue": "^3.2.25"
   },
